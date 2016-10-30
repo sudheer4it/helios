@@ -1,0 +1,6 @@
+[submodule "openpages"]
+	path = openpages
+	url = https://github.com/sudheer4it/helios.git
+[submodule "cognos"]
+	path = cognos
+	url = https://github.com/sudheer4it/helios.git
